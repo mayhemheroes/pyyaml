@@ -1,0 +1,4 @@
+project: PROJECT
+target: fuzz_loader.pkg
+cmds:
+- cmd: /out/fuzz_loader.pkg
